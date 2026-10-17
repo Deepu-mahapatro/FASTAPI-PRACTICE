@@ -47,7 +47,7 @@ products=[
         "price":50000
     },
     {
-        "id":2,
+        "id":2, 
         "name":"Mouse",
         "price":1000
     },
